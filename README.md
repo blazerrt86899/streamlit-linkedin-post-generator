@@ -31,11 +31,7 @@ This project is a **LangChain-powered application** with a **Streamlit web UI** 
   ```json
   {
     "post_text": "Your sample post here...",
-    "engagement": {
-      "likes": 120,
-      "comments": 15,
-      "shares": 5
-    },
+    "engagement": 320,
     "creator": "John Doe"
   }
   ```
